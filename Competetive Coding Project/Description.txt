@@ -1,0 +1,2 @@
+• Technologies : Web Development(HTML, CSS, JavaScript, Bootstrap), Data Structure & Algorithm
+• Description : The aim of this project is to design a platform in which stack implementation is shown.
